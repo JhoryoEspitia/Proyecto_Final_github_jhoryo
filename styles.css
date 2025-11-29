@@ -27,7 +27,7 @@ body {
 
 .content{
     display: flex; /* coloca las tarjetas una al lado de la otra*/
-    gap: 3rem ;/separar las tarjetas/
+    gap: 3rem ;/*separar las tarjetas*/
     flex-wrap:wrap; /* permite que las tarjetas bajen si no caben*/
     justify-content: center;
     padding: 2rem;
