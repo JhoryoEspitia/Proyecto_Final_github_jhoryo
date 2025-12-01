@@ -37,8 +37,8 @@ body {
 .card{
     background: #e9b868 ;
     padding: 1.25rem;
-    border-radius: 22px;
-    box-shadow: 0.6px 18px rgba(186, 101, 3, 0.418); /* dar produndida de la tarjeta */
+    border-radius: 20px;
+    box-shadow: 9.6px 18px rgba(186, 101, 3, 0.418); /* dar produndida de la tarjeta */
     width: 300px;
 }
 
@@ -71,4 +71,12 @@ body {
     text-align: center;
     padding: 1rem;
     color: aliceblue
+}
+
+.class-card .class-img img {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    display: block; 
+    margin: 0 auto;
 }
